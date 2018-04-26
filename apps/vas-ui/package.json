@@ -1,7 +1,7 @@
 {
-  "name": "es-common-ui",
+  "name": "vas-ui",
   "version": "1.0.9",
   "dependencies": {
-    "lodash": "4.17.10"
+    "es-global-ui": "1.0.9"
   }
 }
