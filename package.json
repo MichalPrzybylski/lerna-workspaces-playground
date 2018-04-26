@@ -3,5 +3,10 @@
     "workspaces": [
         "libs/*",
         "apps/*"
-    ]
+    ],
+    "command": {
+        "init": {
+            "exact": true
+        }
+    }
 }
