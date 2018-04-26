@@ -1,0 +1,7 @@
+{
+  "name": "ric-ui",
+  "version": "1.0.1",
+  "dependencies": {
+    "es-olpm-ui": "^1.0.1"
+  }
+}

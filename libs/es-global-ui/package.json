@@ -1,0 +1,9 @@
+{
+  "name": "es-global-ui",
+  "version": "1.0.1",
+  "dependencies": {
+    "es-common-ui": "^1.0.1",
+    "lodash": "4.17.10",
+    "moment": "2.22.1"
+  }
+}
