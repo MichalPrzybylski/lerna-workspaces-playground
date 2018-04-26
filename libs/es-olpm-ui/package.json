@@ -1,6 +1,6 @@
 {
   "name": "es-olpm-ui",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "dependencies": {
     "es-common-ui": "^1.0.6",
     "es-global-ui": "^1.0.6",
