@@ -1,9 +1,9 @@
 {
   "name": "es-olpm-ui",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "dependencies": {
-    "es-common-ui": "^1.0.6",
-    "es-global-ui": "^1.0.6",
+    "es-common-ui": "1.0.8",
+    "es-global-ui": "1.0.8",
     "lodash": "4.17.10"
   }
 }
